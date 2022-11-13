@@ -144,6 +144,14 @@ function App() {
       </form>
 
 
+
+
+
+
+
+
+// This project is for something yeah so if you like th
+
       <ul>
         {todos.map(todo => (<li key={todo}>{todo}</li>))}  
       </ul>

@@ -143,12 +143,6 @@ function App() {
         <input type="submit" value="Submit" />
       </form>
 
-
-
-
-
-
-
       <ul>
         {todos.map(todo => (<li key={todo}>{todo}</li>))}  
       </ul>
